@@ -1,6 +1,8 @@
 import 'package:annisa_furniture/constants/routes.dart';
 import 'package:annisa_furniture/firebase_options.dart';
+import 'package:annisa_furniture/pages/admin/admin_chat_page.dart';
 import 'package:annisa_furniture/pages/admin/admin_order_page.dart';
+import 'package:annisa_furniture/pages/admin/admin_sales_page.dart';
 import 'package:annisa_furniture/pages/admin/create_update_product_page.dart';
 import 'package:annisa_furniture/pages/admin/list_product_page.dart';
 import 'package:annisa_furniture/pages/auth/login_register_page.dart';
@@ -42,6 +44,8 @@ class MyApp extends StatelessWidget {
             const CreateUpdateProductPage(),
         productChatRoute: (context) => const ChatPage(),
         adminOrderRoute: (context) => const AdminOrderPage(),
+        adminSalesRoute: (context) => const AdminSalesPage(),
+        adminCustomerRoute: (context) => const AdminChatPage()
       },
       home: BlocProvider(
         create: (context) => AuthBloc(FirebaseAuthProvider()),

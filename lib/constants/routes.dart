@@ -15,3 +15,5 @@ const adminListProductRoute = '/admin/list-product/';
 const adminAddProductRoute = '/admin/add-product/';
 const adminCreateUpdateProductRoute = '/create-update-product';
 const adminOrderRoute = '/orders';
+const adminSalesRoute = '/sales';
+const adminCustomerRoute = '/users';
