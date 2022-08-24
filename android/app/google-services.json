@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "224170307480",
+    "project_id": "annisa-furniture",
+    "storage_bucket": "annisa-furniture.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224170307480:android:34b17d15ecbad5838845ed",
+        "android_client_info": {
+          "package_name": "com.freedcode.annisa_furniture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224170307480-inq6r278q7c069t617b9e27qep36g1e6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.freedcode.annisa_furniture",
+            "certificate_hash": "305163be243f9671702e0a0dc691dd2958490d6b"
+          }
+        },
+        {
+          "client_id": "224170307480-ukdqr1tngbc8182ai7skeqf04ospq3vf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.freedcode.annisa_furniture",
+            "certificate_hash": "c7c42c90d102669d401580c2f39ec5ed8402ac54"
+          }
+        },
+        {
+          "client_id": "224170307480-so80sr313fcarq4abg61huusu9cdbh1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbUCQI7F5jyZOPsJmzKR6TJoCy7qAiwx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224170307480-so80sr313fcarq4abg61huusu9cdbh1c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "224170307480-fi97h8f34iau0ukt4e1i8go8lo91njk5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.freedcode.annisaFurniture"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
